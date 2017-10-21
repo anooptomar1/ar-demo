@@ -25,7 +25,7 @@ class ViewController: UIViewController, ARSKViewDelegate {
         sceneView.showsNodeCount = true
         
         // Load the SKScene from 'Scene.sks'
-        let scene = SKScene(fileNamed: "Scene")
+        let scene = Scene(size: self.view.frame.size)
         sceneView.presentScene(scene)
     }
     

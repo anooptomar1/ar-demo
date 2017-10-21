@@ -291,10 +291,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = N89ERH987Q;
+				DEVELOPMENT_TEAM = 9YYZRW8KFD;
 				INFOPLIST_FILE = "arkit-testing/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "brilliantservice.co.arkit-testing";
+				PRODUCT_BUNDLE_IDENTIFIER = "brilliantservice.co.arkit-testin";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -306,10 +306,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = N89ERH987Q;
+				DEVELOPMENT_TEAM = 9YYZRW8KFD;
 				INFOPLIST_FILE = "arkit-testing/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "brilliantservice.co.arkit-testing";
+				PRODUCT_BUNDLE_IDENTIFIER = "brilliantservice.co.arkit-testin";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
